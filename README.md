@@ -1,0 +1,1 @@
+This repository contains a Python function that calculates the average of a list of numbers.  It includes a robust solution to handle the edge case of an empty input list, preventing ZeroDivisionError exceptions. The bug.py file demonstrates the potential error, while bugSolution.py provides the corrected implementation.
